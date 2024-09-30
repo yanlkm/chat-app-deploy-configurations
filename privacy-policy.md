@@ -8,20 +8,20 @@ ChatApp ("we," "our," "us") is committed to protecting your privacy. This Privac
 
 ## 2. Information We Collect
 
-    Username and Password: When you create an account, we collect your chosen username and password. Passwords are securely hashed and stored in our MongoDB Atlas cluster.
+Username and Password: When you create an account, we collect your chosen username and password. Passwords are securely hashed and stored in our MongoDB Atlas cluster.
 
 ## 3. How We Use Your Information
 
 We use the collected information to:
 
-    Authenticate Users: Verify your identity when you sign in.
-    Provide Services: Facilitate real-time chat and user profile management.
-    Improve the App: Analyze usage patterns to enhance user experience.
+Authenticate Users: Verify your identity when you sign in.
+Provide Services: Facilitate real-time chat and user profile management.
+Improve the App: Analyze usage patterns to enhance user experience.
 
 ## 4. Data Storage and Security
 
-    Secure Storage: Your username and password are stored in a MongoDB Atlas cluster with robust security measures, including encryption and access controls.
-    Data Protection: We implement industry-standard security practices to protect your data from unauthorized access, alteration, disclosure, or destruction.
+Secure Storage: Your username and password are stored in a MongoDB Atlas cluster with robust security measures, including encryption and access controls.
+Data Protection: We implement industry-standard security practices to protect your data from unauthorized access, alteration, disclosure, or destruction.
 
 ## 5. Data Sharing
 
@@ -29,8 +29,8 @@ We do not sell, trade, or otherwise transfer your personal information to outsid
 
 ## 6. User Rights
 
-    Access and Correction: You can access and update your account information at any time.
-    Deletion: You may request the deletion of your account, which will remove your username and password from our servers.
+Access and Correction: You can access and update your account information at any time.
+Deletion: You may request the deletion of your account, which will remove your username and password from our servers.
 
 ## 7. Children's Privacy
 
